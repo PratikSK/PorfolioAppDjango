@@ -8,6 +8,8 @@ Methods like ElasticBeanstalk, Amplify will also be tried and compared on differ
 
 ## Dev Notes -
 *Day1* - Created EC2 instance, created environment, connected git
+  
   Issues - Git has stopped passwork auth, classic tocken (from Developer settings) also did not work. 
+  
   Resolution - fine-graned tockens worked 
  
