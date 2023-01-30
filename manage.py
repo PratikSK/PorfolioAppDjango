@@ -3,7 +3,7 @@
 import os
 import sys
 
-
+# Test comment - ignore
 def main():
     """Run administrative tasks."""
     os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'personal_portfolio.settings')
